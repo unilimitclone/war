@@ -89,7 +89,7 @@
 
 ## **⚡Host on Heroku**
 #### **1.First click the below deploy button.**
-[![Deploy on Heroku](./Img/Heroku%20Deployment%20Button.png)](https://heroku.com/deploy?template=https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED/tree/sys-env)
+[![Deploy on Heroku](./Img/Heroku%20Deployment%20Button.png)](https://heroku.com/deploy?template=https://github.com/unilimitclone/WAR/tree/sys-env)
 #### **2. Now, enter the values as discussed above and click `Deploy` button.**
 ![4](./Img/Heroku_Vars.png)
 
